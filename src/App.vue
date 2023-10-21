@@ -16,11 +16,7 @@ function showElement() {
       <div class="primary">
         <Vue3SmoothSlideDown v-model="show">
           <div class="body_slide1">
-            <div>Fuck</div>
-            <div>Fuck 2</div>
-            <div>Fuck 3</div>
-            <div>Fuck 3</div>
-            <div>Fuck 3</div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam nostrum voluptatibus quo neque, eum, commodi aut vero, soluta deleniti molestiae dolores sint autem repellat eos fugiat hic tempore? Hic, nisi.
           </div>
         </Vue3SmoothSlideDown>
       </div>
