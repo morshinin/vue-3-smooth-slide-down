@@ -47,6 +47,10 @@
     "vitest": "^0.34.4",
     "vue-tsc": "^1.8.11"
   },
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/morshinin/vue-3-smooth-slide-down"
+	},
   "license": "MIT",
   "keywords": [
     "Vue",
